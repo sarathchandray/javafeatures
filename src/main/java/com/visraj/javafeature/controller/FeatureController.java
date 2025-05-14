@@ -10,6 +10,6 @@ public class FeatureController {
     @GetMapping("/greet")
     public String greet() {
 
-        return "Hi Sarath!";
+        return "Have great day!";
     }
 }
